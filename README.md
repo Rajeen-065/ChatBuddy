@@ -1,2 +1,2 @@
 # ChatBuddy
-Developed a messaging app for iOS platforms using Swift and the UIKit framework. 
+Developed a messaging app for iOS platforms using Swift and the UIKit framework. Firebase authentication is integrated for both new user registration and existing user sign-in. Data for messages is maintained using FireStore, a cloud-based data management system. UITableViewControllers, UITableViewCell for custom cells, and navigation controllers are among the key iOS components used. For certain animations, third-party libraries were used with CocoaPods. 
